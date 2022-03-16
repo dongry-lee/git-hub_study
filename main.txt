@@ -1,4 +1,4 @@
-main -update
+main -update2
 
 sad ending
 
